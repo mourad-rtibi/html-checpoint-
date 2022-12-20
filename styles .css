@@ -1,0 +1,39 @@
+
+.title{
+    color:#5F4B8BFF
+  }
+  #blue-bordered {
+    border: 5px dashed rgb(79, 79, 190);
+    text-align: center;
+    font-family: roboto; 
+    border: 5px ridge #5B84B1FF;
+}
+section {
+    text-align: center;
+    font-family: Helvetica neue, roboto;
+    color: rgb(1, 1, 119);
+    font-style: bold;
+    font-weight: normal;
+}
+body {
+    background-color: #FC766AFF;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mouradrtibi{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    text-align
+}
+.d { 
+    display: inline;
+
+}
+.inline {
+    display: inline;
+}
+.test{
+    display :inline ;
+    text-align: center;
+}
